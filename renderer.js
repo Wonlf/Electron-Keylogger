@@ -1,1 +1,0 @@
-window.onkeydown = (e) => console.log(e.key);
